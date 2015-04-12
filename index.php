@@ -1,4 +1,9 @@
 <?php
+/* 
+ * 添加新内容
+ */
+phpinfo();
+
 include_once("includes/global.php");
 include_once("includes/smarty_config.php");
 //==========================================
